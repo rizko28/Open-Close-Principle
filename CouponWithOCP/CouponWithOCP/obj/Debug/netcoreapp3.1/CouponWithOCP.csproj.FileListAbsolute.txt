@@ -1,0 +1,13 @@
+D:\KULIAH\SEMESTER 3\PEMROGRAMAN LANJUT                                         (Arif Akbarul Huda, S.Si, M.Eng)\CouponWithOCP\CouponWithOCP\bin\Debug\netcoreapp3.1\CouponWithOCP.exe
+D:\KULIAH\SEMESTER 3\PEMROGRAMAN LANJUT                                         (Arif Akbarul Huda, S.Si, M.Eng)\CouponWithOCP\CouponWithOCP\bin\Debug\netcoreapp3.1\CouponWithOCP.deps.json
+D:\KULIAH\SEMESTER 3\PEMROGRAMAN LANJUT                                         (Arif Akbarul Huda, S.Si, M.Eng)\CouponWithOCP\CouponWithOCP\bin\Debug\netcoreapp3.1\CouponWithOCP.runtimeconfig.json
+D:\KULIAH\SEMESTER 3\PEMROGRAMAN LANJUT                                         (Arif Akbarul Huda, S.Si, M.Eng)\CouponWithOCP\CouponWithOCP\bin\Debug\netcoreapp3.1\CouponWithOCP.runtimeconfig.dev.json
+D:\KULIAH\SEMESTER 3\PEMROGRAMAN LANJUT                                         (Arif Akbarul Huda, S.Si, M.Eng)\CouponWithOCP\CouponWithOCP\bin\Debug\netcoreapp3.1\CouponWithOCP.dll
+D:\KULIAH\SEMESTER 3\PEMROGRAMAN LANJUT                                         (Arif Akbarul Huda, S.Si, M.Eng)\CouponWithOCP\CouponWithOCP\bin\Debug\netcoreapp3.1\CouponWithOCP.pdb
+D:\KULIAH\SEMESTER 3\PEMROGRAMAN LANJUT                                         (Arif Akbarul Huda, S.Si, M.Eng)\CouponWithOCP\CouponWithOCP\obj\Debug\netcoreapp3.1\CouponWithOCP.csprojAssemblyReference.cache
+D:\KULIAH\SEMESTER 3\PEMROGRAMAN LANJUT                                         (Arif Akbarul Huda, S.Si, M.Eng)\CouponWithOCP\CouponWithOCP\obj\Debug\netcoreapp3.1\CouponWithOCP.AssemblyInfoInputs.cache
+D:\KULIAH\SEMESTER 3\PEMROGRAMAN LANJUT                                         (Arif Akbarul Huda, S.Si, M.Eng)\CouponWithOCP\CouponWithOCP\obj\Debug\netcoreapp3.1\CouponWithOCP.AssemblyInfo.cs
+D:\KULIAH\SEMESTER 3\PEMROGRAMAN LANJUT                                         (Arif Akbarul Huda, S.Si, M.Eng)\CouponWithOCP\CouponWithOCP\obj\Debug\netcoreapp3.1\CouponWithOCP.csproj.CoreCompileInputs.cache
+D:\KULIAH\SEMESTER 3\PEMROGRAMAN LANJUT                                         (Arif Akbarul Huda, S.Si, M.Eng)\CouponWithOCP\CouponWithOCP\obj\Debug\netcoreapp3.1\CouponWithOCP.dll
+D:\KULIAH\SEMESTER 3\PEMROGRAMAN LANJUT                                         (Arif Akbarul Huda, S.Si, M.Eng)\CouponWithOCP\CouponWithOCP\obj\Debug\netcoreapp3.1\CouponWithOCP.pdb
+D:\KULIAH\SEMESTER 3\PEMROGRAMAN LANJUT                                         (Arif Akbarul Huda, S.Si, M.Eng)\CouponWithOCP\CouponWithOCP\obj\Debug\netcoreapp3.1\CouponWithOCP.genruntimeconfig.cache
